@@ -1,9 +1,1 @@
-## Hi there 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&text=Flappy+Bird+Dev">
-  
-  ![Flappy Bird](flappy-bird.gif)
-  
-  [![Play Now](https://img.shields.io/badge/🎮_PLAY_FLAPPY_BIRD-Live_Demo-brightgreen)](https://yourgame.com)
-</div>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/waves.svg" width="100%" alt="Animated Waves">
