@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&text=Flappy+Bird+Dev">
   
  
   
