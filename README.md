@@ -6,4 +6,4 @@
 </div>
 
 <br>
- <img src="assets/git.svg">
+ <img src="assest/git.svg">
